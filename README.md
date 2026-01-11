@@ -9,6 +9,7 @@ Information Systems graduate, currently transitioning to Cyber Security. Previou
 - Virtual Machine
 - MySQL
 - Burp Suite
+- SQLmap
 
 # Notes 
 This injection is carried out in a controlled environment and poses no public risk to the CIA triad. It is used purely for educational purposes.
