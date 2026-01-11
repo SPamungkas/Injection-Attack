@@ -1,3 +1,6 @@
+# Injection Attack
+This project provides a comprehensive demonstration of Injection Attacks, specifically focusing on SQL Injection (SQLi).
+
 # About Me 
 Information Systems graduate, currently transitioning to Cyber Security. Previously served as a Technician at Oil and Gas Industry (Pertamina Patra Niaga vendor), where I developed a highly disciplined approach to managing critical infrastructure compliance and 24/7 reliability. Currently formalizing expertise through an intensive cybersecurity bootcamp at Dibimbing, I am eager to apply this technical foundation and structured approach to a security operations role.
 
