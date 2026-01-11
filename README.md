@@ -1,6 +1,3 @@
-<img width="527" height="58" alt="image" src="https://github.com/user-attachments/assets/3d00b895-d2e9-4377-8d76-f398594be56b" /># Injection-Attack
-This project provides a comprehensive demonstration of Injection Attacks, specifically focusing on SQL Injection (SQLi) one of the most critical web vulnerabilities.
-
 # About Me 
 Information Systems graduate, currently transitioning to Cyber Security. Previously served as a Technician at Oil and Gas Industry (Pertamina Patra Niaga vendor), where I developed a highly disciplined approach to managing critical infrastructure compliance and 24/7 reliability. Currently formalizing expertise through an intensive cybersecurity bootcamp at Dibimbing, I am eager to apply this technical foundation and structured approach to a security operations role.
 
